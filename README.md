@@ -12,11 +12,6 @@ Versión HTML (quizá más legible),
 
 **15 de octubre de 2024, 7:59 pm.**
 
-Basado en el contenido del tema sobre **“Distribución de especies”**
-extraído de la presentación que me proporcionaste y considerando el
-formato que usas, te propongo el siguiente mandato para la **Práctica de
-Aula 07 (PA07)**:
-
 # Objetivo
 
 El propósito de esta práctica es que realices una revisión crítica

@@ -48,8 +48,6 @@ if (grepl('gfm', output_format)) {
 
 **15 de octubre de 2024, 7:59 pm.**
 
-Basado en el contenido del tema sobre **"Distribución de especies"** extraído de la presentación que me proporcionaste y considerando el formato que usas, te propongo el siguiente mandato para la **Práctica de Aula 07 (PA07)**:
-
 # Objetivo
 
 El propósito de esta práctica es que realices una revisión crítica comparativa entre el contenido del tema **"Distribución de especies"** impartido en clase y la información disponible tanto en el **libro de Lomolino et al. (2010)** como en un artículo científico que tú seleccionarás siguiendo las instrucciones más abajo.
